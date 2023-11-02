@@ -32,6 +32,10 @@ body {
 	letter-spacing: 5px;
 }
 
+.container h2{
+	font-size: 45px;
+}
+
 @keyframes fadeInOut {
   0% {
     opacity: 0;
