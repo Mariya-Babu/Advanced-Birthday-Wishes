@@ -2,7 +2,7 @@
 const params = new URLSearchParams(window.location.search);
 
 // Default values
-const defaultName = "Mariya Babu.Com";
+const defaultName = "Mariya Babu";
 const defaultDOB = "July 14 2027";
 
 // Read values from URL or use defaults
